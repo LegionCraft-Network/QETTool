@@ -1,0 +1,11 @@
+<definition width="10" hotspot_x="4" height="20" type="element" hotspot_y="11" link_type="simple" version="0.80">
+    <uuid uuid="{b6cd9dd5-84b4-48cf-955d-d5cecb4ae383}"/>
+    <names>
+        <name lang="it">Connessione Invisibile</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <terminal x="0" uuid="{6b6251e1-2d88-436f-a96a-f25bbff387d3}" y="0" name="" orientation="s"/>
+    </description>
+</definition>

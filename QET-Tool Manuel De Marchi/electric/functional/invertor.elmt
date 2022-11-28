@@ -1,0 +1,19 @@
+<definition hotspot_x="33" link_type="simple" version="0.80" hotspot_y="31" height="60" type="element" width="50">
+    <uuid uuid="{72806d8e-36b1-472e-a607-5ac81a34af0d}"/>
+    <names>
+        <name lang="it">Invertitore 1,2 + L1,L2</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <polygon x5="-25" x8="10" y4="20" y6="15" x2="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" y3="0" y5="15" closed="false" x7="10" y7="5" y1="-25" x6="10" x4="-25" x1="-20" antialias="false" y2="-15" y8="0" x3="-25"/>
+        <polygon x5="-5" x8="-15" y4="20" y6="10" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" y3="0" y5="10" closed="false" x7="-15" y7="0" y1="-25" x6="-15" x4="-5" x1="0" antialias="false" y2="-15" y8="0" x3="-5"/>
+        <dynamic_text Halignment="AlignLeft" y="-10" z="7" x="-60" text_width="-1" rotation="0" Valignment="AlignTop" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" uuid="{bd25e0d2-9ddd-4758-b54e-f9c8519abe47}" frame="false" text_from="UserText">
+            <text>_</text>
+        </dynamic_text>
+        <terminal y="20" x="-25" name="" orientation="s" uuid="{e282c047-53f8-420c-8757-cd65f6c2bdec}"/>
+        <terminal y="20" x="-5" name="" orientation="s" uuid="{4d5a6394-b5f4-4149-bbd2-4c096b995b60}"/>
+        <terminal y="-24" x="-20" name="" orientation="n" uuid="{57c6c145-6238-4aac-b4e7-8fa4a2f8d6ca}"/>
+        <terminal y="-24" x="0" name="" orientation="n" uuid="{d6ac0cb4-44c9-4bad-ab4c-f280ce4548bc}"/>
+    </description>
+</definition>
