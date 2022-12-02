@@ -1,0 +1,16 @@
+<definition width="20" hotspot_x="9" height="20" type="element" hotspot_y="9" link_type="simple" version="0.80">
+    <uuid uuid="{60c2bfe8-ad6e-4e32-9e53-f57d396dfe84}"/>
+    <names>
+        <name lang="it">Connessione Minuscola</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle x="-1" y="-1" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="2"/>
+        <ellipse x="0" y="-1" antialias="false" width="0" height="2" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal x="1" uuid="{853ac13b-53ac-41c2-847d-2c9fdf7756fe}" y="0" name="" orientation="e"/>
+        <terminal x="-1" uuid="{ca5833fe-6c4f-49a6-bfd4-bb865f16512c}" y="0" name="" orientation="w"/>
+        <terminal x="0" uuid="{4377cc08-2005-406a-9432-08994f60081d}" y="-1" name="" orientation="n"/>
+        <terminal x="0" uuid="{f06b4ec7-2379-4a31-b846-eb9e7bf58b4a}" y="1" name="" orientation="s"/>
+    </description>
+</definition>
